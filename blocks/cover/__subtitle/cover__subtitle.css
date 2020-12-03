@@ -7,11 +7,13 @@
     margin: 0 auto;
     position: relative;
     color: #ffffff;
+    max-width: 288px;
   }
   
   @media screen and (min-width: 768px) {
       .cover__subtitle{
           font-size: 18px;
           line-height: 22px;
+          max-width: 360px;
       }
   }

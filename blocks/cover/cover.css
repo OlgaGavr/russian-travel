@@ -1,7 +1,7 @@
 .cover{
     display: flex;
-    width: 100vw;
-    height: 62.5vw;
+    width: 100%;
+    min-height: 62.5vw;
     position: relative;
     margin: 66px auto 0;
 }
@@ -19,6 +19,6 @@
 @media screen and (min-width: 1280px) {
     .cover{
         width: calc(100vw - 96px);
-        height: calc((100vw - 96px)*0.625);
+        min-height: calc((100vw - 96px)*0.625);
     }
 }

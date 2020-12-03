@@ -8,7 +8,7 @@
 }
 
 @media screen and (min-width: 768px) {
-  .lead__title { 
+  .intro__title { 
     font-size: 54px;
     line-height: 58px;
     /* or 107% */
