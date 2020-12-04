@@ -1,0 +1,7 @@
+.lang-links__column{
+  margin-left: 18px;
+}
+
+.lang-links__column:first-of-type{
+  margin: 0;
+}
