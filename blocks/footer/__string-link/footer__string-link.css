@@ -1,0 +1,13 @@
+.footer__string-link{
+    margin-bottom: 32px; 
+}
+.footer__string-link:last-of-type {
+    margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__string-link{
+        margin-right: 18px;
+        margin-bottom: 0;
+    }
+}
