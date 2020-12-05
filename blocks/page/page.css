@@ -8,7 +8,6 @@
     margin: 16px 0 24px;
     display: flex;
     flex-direction: column;
-  
     min-width: calc(100% - 15px);
   }
 
